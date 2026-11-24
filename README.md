@@ -22,7 +22,7 @@ You can view the live demo of this project here:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/khdxsohee/login-form-ui-modern.git
+    git clone https://github.com/farhan-swe/login-form-ui-modern.git
     ```
 2.  **Navigate to the project folder:**
     ```bash
@@ -50,7 +50,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Author
 
-  - **GitHub:** [khdxsohee](https://github.com/khdxsohee)
+  - **GitHub:** [farhan-swe](https://github.com/farhan-swe)
 
 -----
 
